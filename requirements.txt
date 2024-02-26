@@ -1,0 +1,9 @@
+opencv-python
+PyQt5
+pyqtgraph
+numpy
+scipy
+sklearn
+matplotlib
+seaborn
+dlib
